@@ -68,8 +68,10 @@ This tool aims to help students make more informed financial decisions about the
 - Modern landing page with hero section featuring the project image
 - Introduces the expense comparison tool with call-to-action buttons
 - Blog section with three article cards showcasing student finance topics
-  - **Note:** Article cards display titles and descriptions only (no full articles)
-  - Created for demonstration purposes as part of the course requirements
+  - **⚠️ WARNING:** Article cards display titles and descriptions only (no full articles)
+  - **Note:** Full blog articles are NOT included in this website
+  - Created for demonstration purposes to meet course criteria and requirements
+  - Only the core functionality (calculator) is fully implemented
 - Fully responsive design using Bootstrap grid system
 
 ### 📊 Interactive Expense Calculator
@@ -314,7 +316,7 @@ You can view the live version of our project deployed on GitHub Pages here:
 
 ## Important Notes
 
-📝 **Blog Articles:** The blog section on the homepage displays article cards with titles and descriptions only. Full article content was not created as it was not required for this project milestone. The cards serve as placeholder examples to demonstrate the layout and design capabilities.
+⚠️ **WARNING - Blog Articles:** The blog section on the homepage displays article cards with titles and descriptions ONLY. **Full blog articles are NOT included in this website.** The cards serve as placeholder examples to demonstrate layout and design capabilities for course criteria and requirements. Only the core functionality (expense calculator) is fully implemented.
 
 🎓 **Educational Purpose:** This is a student project created for academic purposes as part of the MO-IT120 - Web Systems and Technology course at MMDC.
 
