@@ -10,6 +10,8 @@ The application provides an **interactive calculator** where students can input 
 
 This tool aims to help students make more informed financial decisions about their education path.
 
+**🌐 Live Website:** [Click here to visit the live site](https://j0eychnpulpey.github.io/wiseMMDC-Final/index.html)
+
 ---
 
 ## Team Members - Group 13
@@ -306,7 +308,7 @@ Compliant with **RA 10173 (Data Privacy Act of 2012)**.
 
 You can view the live version of our project deployed on GitHub Pages here:
 
-[Live Demo](#) <!-- Add your GitHub Pages URL here -->
+[🌐 Live Demo](https://j0eychnpulpey.github.io/wiseMMDC-Final/index.html)
 
 ---
 
