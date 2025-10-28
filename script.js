@@ -202,8 +202,7 @@ class WiseMMDCApp {
         // Add interactive hover effects
         this.addCardHoverEffects(card);
         
-        // Add click functionality
-        this.addCardClickHandler(card);
+        // Click functionality removed - cards are now non-clickable
       });
       
       // Update article count
@@ -235,20 +234,6 @@ class WiseMMDCApp {
     });
   }
 
-  /**
-   * Add click handler to article cards
-   * @param {HTMLElement} card - The article card element
-   */
-  addCardClickHandler(card) {
-    card.addEventListener('click', function(e) {
-      if (!e.target.classList.contains('article-card__link')) {
-        const link = this.querySelector('.article-card__link');
-        if (link && link.href !== '#') {
-          window.location.href = link.href;
-        }
-      }
-    });
-  }
 
   /**
    * Update article count display

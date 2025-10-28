@@ -311,6 +311,7 @@ body:has(.calculator-container) {
   padding: 25px;
   transition: all 0.3s ease;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  cursor: default;
 }
 
 .article-card:hover {
